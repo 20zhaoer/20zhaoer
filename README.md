@@ -1,2 +1,2 @@
 Hello, this is Eric Zhao.
-University of Waterloo - Math/FARM
+University of Waterloo - Math/FARM, STAT, CO
